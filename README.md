@@ -8,6 +8,7 @@ O projeto consiste em um sistema de posts, em que o usuário pode ver, postar, a
 
 #### Como usar?
 Para começar, você pode rodar o projeto no Eclipse ou acessar pelo URL: http://localhost:8080/Projeto1A/
+
 Se já possuir um cadastro, pode começar entrando diretamente pela página de login. Caso contrário, clique na opção para fazer um cadastro e faça login após essa etapa ser concluída.
 
 A página principal contém a listagem das tarefas criadas. Caso deseje criar uma nova, é só clicar em "Nova Tarefa", no menu. 
