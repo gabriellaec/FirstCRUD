@@ -24,7 +24,10 @@ O sistema foi elaborado de acordo com a arquitetura MVC (Model-View-Controller).
 
 
 #### Banco de dados - SQL
-Para o projeto, foi criado um database *projetoum*. Nele, foram criadas duas tarefas: *Tarefas e Usuario*
+Para o projeto, foi criado um database - *projetoum*. Nele, foram criadas duas tabelas: *Tarefas e Usuario*
+
 A tabela Tarefas contém as colunas:
  - id, nome_tarefa, conteudo, data, categoria, nome_usuario
-A tabela Usuario contém as colunas: id, nome, senha
+ 
+A tabela Usuario contém as colunas: 
+- id, nome, senha
